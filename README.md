@@ -14,11 +14,11 @@ Welcome to the **Spin the Wheel** game! This interactive game allows players to 
 
 ## Features
 
-- 🎡 **Interactive Wheel**: Spin the wheel to determine your prize.
+- 🎡 **Interactive Wheel**: Spin the wheel to determine winner.
 - 🎁 **Customizable Prizes**: Easily modify the prizes displayed on the wheel.
 - 🖥️ **Responsive Design**: Works seamlessly on desktop and mobile devices.
-- 🎶 **Sound Effects**: Fun sound effects to enhance the gaming experience.
-- 🔄 **Restart Option**: Players can spin the wheel again for more chances to win.
+- 🎶 **Sound Effects**: Without Fun sound effects to enhance the gaming experience.
+- 🔄 **Restart Option**: Players can click restart on browser or click button ctrl + f5.
 
 ## Demo
 

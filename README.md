@@ -63,7 +63,6 @@ To get started with the Spin the Wheel game, follow these steps:
 
   
 ### Customization Tips
-- Replace placeholder links (like `link-to-your-demo-image` and `link-to-your-live-demo`) with actual links.
 - Modify the installation steps if your project has different requirements.
 - Add more details about the game's rules or features if necessary.
 - Adjust the contact information to reflect your details. 

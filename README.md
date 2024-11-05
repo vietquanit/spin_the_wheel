@@ -22,9 +22,9 @@ Welcome to the **Spin the Wheel** game! This interactive game allows players to 
 
 ## Demo
 
-![Spin the Wheel Demo](link-to-your-demo-image)
+![Spin the Wheel Demo]
+![dashboard](https://github.com/user-attachments/assets/0126c99d-57f0-492f-b073-939fae3c8eea)
 
-You can try the game live at [Demo Link](link-to-your-live-demo).
 
 ## Installation
 

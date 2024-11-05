@@ -25,7 +25,7 @@ Welcome to the **Spin the Wheel** game! This interactive game allows players to 
 ![Spin the Wheel Demo]
 ![dashboard](https://github.com/user-attachments/assets/0126c99d-57f0-492f-b073-939fae3c8eea)
 
-
+[Link demo] https://tienichonline.net/vong-quay-may-man
 ## Installation
 
 To get started with the Spin the Wheel game, follow these steps:
@@ -53,7 +53,7 @@ To get started with the Spin the Wheel game, follow these steps:
   Open a Pull Request.
 
 ## License
-  This project is licensed under the MIT License. See the LICENSE file for details.
+  ...
 
 ## Contact
   For questions, suggestions, or feedback, feel free to contact:
